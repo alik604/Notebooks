@@ -135,7 +135,7 @@ model.add(Dense(num_classes, activation='softmax'))
 # 98%
 ```
 
-```
+```python
 model.add(Conv2D(filters=100, kernel_size=3, activation='relu'))
 model.add(MaxPooling2D(pool_size=(2, 2)))
 
