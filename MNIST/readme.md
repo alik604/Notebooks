@@ -12,7 +12,7 @@ Attempt n-2
 
 
 
-```
+```python
 model = Sequential() 
 
 model.add(Conv2D(filters=100, kernel_size=3, activation='relu'))
@@ -30,7 +30,7 @@ Attempt n-1
 
 
 
-```
+```python
 model = Sequential() 
 
 model.add(Conv2D(filters=100, kernel_size=3, activation='relu'))
@@ -51,7 +51,7 @@ Attempt n
 
 
 
-```
+```python
 model = Sequential() 
 
 model.add(Conv2D(filters=100, kernel_size=3, activation='relu'))
@@ -74,7 +74,7 @@ Test accuracy: 0.9924
 
 
 
-```
+```python
 model = Sequential() 
 
 model.add(Conv2D(32, kernel_size=(3, 3),          activation='relu',input_shape=input_shape))
@@ -133,7 +133,9 @@ model.add(Flatten())
 model.add(Dense(num_classes, activation='softmax'))
 model.add(Dense(num_classes, activation='softmax'))
 # 98%
---------------------------------------------------
+```
+
+```python
 model.add(Conv2D(filters=100, kernel_size=3, activation='relu'))
 model.add(MaxPooling2D(pool_size=(2, 2)))
 
