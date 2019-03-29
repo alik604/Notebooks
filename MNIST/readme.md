@@ -98,7 +98,7 @@ Test accuracy: 0.9912
 
 ----
 
-###  Attempt n's accuracy was 0.9924, I beats the accuracy of the sample code, which was 0.9912
+###  Attempt n's accuracy was 0.9924, I beat the accuracy of the sample code, which was 0.9912
 
 
 
