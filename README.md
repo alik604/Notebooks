@@ -13,10 +13,10 @@ contents
 
 datasets worked on: 
 
-Lower Back Pain Symptoms
-MNIST
-callCenter
-pima indians diabetes dataset
-students-performance-in-exams
-titanic
+- Lower Back Pain Symptoms
+- MNIST
+- callCenter
+- pima indians diabetes dataset
+- students-performance-in-exams
+- titanic
 
