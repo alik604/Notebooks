@@ -1,7 +1,9 @@
 # Notebooks
-iPython Notebook folder 
+> most for of this is not updated, since I do most of my work in google colab. 
 
-contents 
+## iPython Notebook folder 
+
+## contents 
 
 - Holt, Arima, LinearRegression, and SVM.ipynb 
    + non-ML approach to time series predictions  prediction
@@ -11,7 +13,7 @@ contents
 
 
 
-datasets worked on: 
+## datasets worked on: 
 
 - Lower Back Pain Symptoms
 - MNIST
