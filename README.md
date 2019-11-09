@@ -18,13 +18,13 @@
 ## Datasets worked on: 
 
 - MNIST
-  - Just the “normal” CNN approach. Will revisit after I formally learn this is CMPT 419 at SFU (my university)
+  - Just the “normal” CNN approach. Will revisit after I formally learn this in CMPT 419 at SFU (my university)
 - Pima indians diabetes dataset
   - Evaluating effects of combinations of, Feature selection, Data cleaning, PCA for dim reduction 
   - TODO: autoencoder for feature selection 
 - Credit card Fraud 
 - Boston Housing
-  - Also make a recommendation system 
+  - Also made a recommendation system 
 
 
 
