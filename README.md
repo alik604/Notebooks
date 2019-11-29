@@ -25,7 +25,7 @@ Note: [ Anomaly detection (cybersecurity & finance) ](<https://github.com/alik60
 - Credit card Fraud 
    - Deep Learning
 - Boston Housing
-  - *Recommendation system* 
+  - **Recommendation system** 
   - Price Prediction
 
 
