@@ -3,7 +3,7 @@
 
 ## iPython Notebook folder 
 
-Note: [ Anomaly detection (cyber security & finance) ](<https://github.com/alik604/cyber-security>)related exercises are it my Cyber-Security Repo 
+Note: [ Anomaly detection (cybersecurity & finance) ](<https://github.com/alik604/cyber-security>)related exercises are it my Cyber-Security Repo 
 
 ## Contents 
 
@@ -17,15 +17,16 @@ Note: [ Anomaly detection (cyber security & finance) ](<https://github.com/alik6
 
 ## Datasets worked on: 
 
-- [Lots of anomaly detection (cyber security & finance) related exercises](https://github.com/alik604/cyber-security)
+- [Intrusion Detection System (cybersecurity) related exercises](https://github.com/alik604/cyber-security)
 - MNIST
   - Just the “normal” CNN approach. Will revisit after I formally learn this in CMPT 419 at SFU (my university)
 - Pima indians diabetes dataset
   - Evaluating effects of combinations of, Feature selection, Data cleaning, PCA for dim reduction 
-  - TODO: autoencoder for feature selection 
 - Credit card Fraud 
+   - Deep Learning
 - Boston Housing
-  - Also made a recommendation system 
+  - *Recommendation system* 
+  - Price Prediction
 
 
 
