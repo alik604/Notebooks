@@ -1,0 +1,1 @@
+> content have been moved to their own repo, which is titled _mathematical finance_ 
