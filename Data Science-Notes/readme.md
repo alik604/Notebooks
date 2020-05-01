@@ -1,0 +1,3 @@
+Aug 31st 2018 is when i started me...
+
+These terrible notes are just a keepsake
