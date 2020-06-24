@@ -1,9 +1,10 @@
 # Notebooks
-> Most for of this is not updated, since I do most of my work in google colab. 
+> Most of this is not updated, since I do most of my work in google colab. 
 
 ## iPython Notebook folder 
 
 Note: [ Anomaly detection (cybersecurity & finance) ](<https://github.com/alik604/cyber-security>)related exercises are it my Cyber-Security Repo 
+Note: [up to date Finance Repo](https://github.com/alik604/mathematical-finance) 
 
 ## Contents 
 
@@ -25,7 +26,7 @@ Note: [ Anomaly detection (cybersecurity & finance) ](<https://github.com/alik60
 - Credit card Fraud 
    - Deep Learning
 - Boston Housing
-  - **Recommendation system** 
+  - Recommendation system 
   - Price Prediction
 
 
@@ -33,7 +34,6 @@ Note: [ Anomaly detection (cybersecurity & finance) ](<https://github.com/alik60
 ### Datasets also worked on:
 
 > Nothing worthy of note 
-
 - Students-performance-in-exams
 - Titanic
 - CallCenter
