@@ -1,1 +1,1 @@
-> note: non-trivial & ‘projects’ are in their own report 
+> note: My work on EEG-MNIST is in its own repo
