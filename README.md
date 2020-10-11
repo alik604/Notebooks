@@ -3,8 +3,9 @@
 
 ## iPython Notebook folder 
 
-Note: [ Anomaly detection (cybersecurity & finance) ](<https://github.com/alik604/cyber-security>)related exercises are it my Cyber-Security Repo 
-Note: [up to date Finance Repo](https://github.com/alik604/mathematical-finance) 
+Note: [Anomaly detection (cybersecurity) Repo](<https://github.com/alik604/cyber-security>)related exercises are it my Cyber-Security Repo 
+
+Note: [Finance Repo](https://github.com/alik604/mathematical-finance) 
 
 ## Contents 
 
