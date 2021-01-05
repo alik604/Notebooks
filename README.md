@@ -3,7 +3,7 @@
 
 ## iPython Notebook folder 
 
-Note: [Anomaly detection (cybersecurity) Repo](<https://github.com/alik604/cyber-security>)related exercises are it my Cyber-Security Repo 
+Note: [Anomaly detection (cybersecurity) Repo](<https://github.com/alik604/cyber-security>) related exercises are it my Cyber Security Repo 
 
 Note: [Finance Repo](https://github.com/alik604/mathematical-finance) 
 
@@ -20,17 +20,20 @@ Note: [Finance Repo](https://github.com/alik604/mathematical-finance)
 ## Datasets worked on: 
 
 - [Intrusion Detection System (cybersecurity) related exercises](https://github.com/alik604/cyber-security)
+   - `Variational_autoencoder_with_gumbel_softmax_pytorch.ipynb` 
+- Cifar 
+   - Transfer learning 
+   - Dealing with over fitting; Where to add noise in a deep CNN  
 - MNIST
   - Just the “normal” CNN approach. Will revisit after I formally learn this in CMPT 419 at SFU (my university)
 - Pima indians diabetes dataset
   - Evaluating effects of combinations of, Feature selection, Data cleaning, PCA for dim reduction 
 - Credit card Fraud 
-   - Deep Learning
+   - AutoEncoder
 - Boston Housing
   - Recommendation system 
   - Price Prediction
-
-
+- Any others..
 
 ### Datasets also worked on:
 
@@ -39,4 +42,14 @@ Note: [Finance Repo](https://github.com/alik604/mathematical-finance)
 - Titanic
 - CallCenter
 - Lower Back Pain Symptoms
+
+
+
+![](./ML in uni vs work.jpg)
+
+
+
+
+
+
 

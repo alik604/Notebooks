@@ -15,3 +15,10 @@ This is the repo for all my notes which I post online, as well as some contents 
 * [Machine learning -> theory](https://github.com/alik604/Notes/blob/master/machineLearning-general.markdown)
 * [Linear algebra](https://github.com/alik604/Notes/blob/master/linearAlgebra.md) 
 
+
+
+
+
+Aug 31st 2018 is when I started me...
+
+These terrible notes are just a keepsake
