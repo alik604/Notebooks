@@ -45,7 +45,7 @@ Note: [Finance Repo](https://github.com/alik604/mathematical-finance)
 
 
 
-![](./ML in uni vs work.jpg)
+![](https://github.com/alik604/Notebooks/blob/master/ML%20in%20uni%20vs%20work.jpg)
 
 
 
